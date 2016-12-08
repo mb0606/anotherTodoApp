@@ -1,0 +1,28 @@
+.navbar-brand > img {
+  max-height: 40px;
+}
+.navbar-brand {
+  padding: 3px 15px;
+}
+.btn-primary {
+  background: #2E8B57;
+  border-color: darkgreen;
+
+}
+.btn-primary:hover,.btn-primary:active, .btn-primary:focus {
+  background: darkgreen;
+  border-color: darkgreen;
+
+}
+
+.btn.pull-right {
+  margin-left: 10px;
+}
+.row {
+
+  padding-bottom:10px;
+}
+.done {
+  color:darkgrey;
+  text-decoration: line-through ;
+}
